@@ -26,4 +26,5 @@ export class AppComponent {
   // getAccount() {
   //   return this.accountService.getByID(this.accountId).toPromise();
   // }
+  // const [apps, acounts] = await Promise.all([this.getNonAssignedApps(),this.getNonAssignedApps()]);
 }
